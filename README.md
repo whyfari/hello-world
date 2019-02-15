@@ -1,5 +1,2 @@
-# hello-world
-hello world repository
-
-This is an edit to teh file
-Edit 3 
+# Hello word
+## Edit from ubundu bash shell on windows
